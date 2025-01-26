@@ -1,0 +1,2 @@
+# commandrich
+kumpulan command install
